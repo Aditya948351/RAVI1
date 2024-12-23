@@ -1,2 +1,2 @@
 # RAVI1
-This is repository of the IoT project of Virtual Desktop Assistant
+This is the IoT project of Virtual Desktop Assistant

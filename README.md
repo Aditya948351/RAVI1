@@ -1,2 +1,3 @@
-# RAVI1
-This is the IoT project of Virtual Desktop Assistant
+🤞🏻Advanced Desktop Assistant with Home Automation 
+
+This project uses Raspberry Pi and IoT sensors like RainDrop Detectiom

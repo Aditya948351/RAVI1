@@ -39,37 +39,38 @@ Offers a user-friendly interface for seamless monitoring and control.
 
 🛠️ Technologies Used
 1️⃣ 🖥️ Raspberry Pi
-
 Acts as the central controller for the IoT system.
+
 2️⃣ ☔ Raindrop Sensor
-
 Detects rain and triggers automated alerts.
+
 3️⃣ 📏 Ultrasonic Sensor
-
 Monitors distance and user presence.
+
 4️⃣ 🌡️ Temperature & Humidity Sensor
-
 Ensures real-time environmental monitoring.
+
 5️⃣ 🛑 Gas Sensor
-
 Identifies potential gas leaks for enhanced safety.
+
 6️⃣ ✨ LED Lights
-
 Provides visual indications for commands.
+
 7️⃣ 🔔 Buzzer
-
 Sends audible alerts for critical conditions.
+
 8️⃣ 📩 Twilio API
+Sends SMS notifications directly to the user.\
 
-Sends SMS notifications directly to the user.
 9️⃣ 🐍 Python
-
 Powers the project with scripts to interact with sensors and the Twilio API.
+
 🔟 🖼️ GUI Development
 Simplifies user interaction with a graphical interface it is Made using PyQt module in Python
 
-1️⃣1️⃣ 🗄️SQL
-Uses to stored Trained Data using Voice
+1️⃣1️⃣ 🗄️SQL                                                                                                           
+Uses to stored Trained Data using Voice                                                                                
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+___________________________________________________________________________________________________________________________________________________________________________________________________________________

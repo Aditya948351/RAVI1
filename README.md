@@ -2,6 +2,7 @@
 This project demonstrates an innovative Home Automation System using Internet of Things (IoT) technology and Desktop Assistant. The system allows users to control home appliances like lights, fans, and TVs via sensors and voice commands while integrating Twilio for real-time alerts. Built with Raspberry Pi and a user-friendly GUI, this solution ensures efficient monitoring and control of home conditions.
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✨ Features
+
 1️⃣ 💡 Home Appliance Control and Desktop Control
     Control appliances like lights, fans, and TVs using voice commands.
     

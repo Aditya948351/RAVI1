@@ -37,7 +37,9 @@ Gas leaks
 Offers a user-friendly interface for seamless monitoring and control.
 
 
+
 🛠️ Technologies Used
+
 1️⃣ 🖥️ Raspberry Pi
 Acts as the central controller for the IoT system.
 
